@@ -14,10 +14,10 @@
 !pip install git+https://github.com/huggingface/transformers
 !pip install sentencepiece
 !pip install git+https://github.com/stas00/transformers
-!pip install pegasus```
+!pip install pegasus
 
-```!pip install python-docx
-!pip install language-tool-python```
+!pip install python-docx
+!pip install language-tool-python
 
-```!pip install boto3
-!pip install json```
+!pip install boto3
+
